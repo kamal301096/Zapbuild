@@ -1,0 +1,40 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+</head>
+<body>
+<title>Name</title>
+
+
+<h1>drink</h1>
+
+<ul>
+<li>coffee</li>
+<li>tea</li>
+<li>cold drink</li>
+<li>black tea</li>
+</ul>
+
+<h2>abc</h2>
+<p>Hypertext Markup Language (HTML) is the <mark style="font-size:20px;">standard markup</mark> language for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web</p>
+
+<h3>efg</h3>
+<table we="170px">
+<tr>
+<b> hlo </b>
+<td>guage for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web</td>
+</tr>
+<tr>
+<b> hi </b>
+<td>guage for creating web pages and web applications. With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web</td>
+</tr>
+</table>
+<footer>copy@right</footer>
+
+</body>
+</html>
+
